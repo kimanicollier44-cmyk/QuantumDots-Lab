@@ -1,4 +1,4 @@
-![QuantumDots-Lab cover](assets/cover.png)
+![QuantumDots-Lab cover](QuantumDots-Lab%20cover.png)
 
 # QuantumDots-Lab ⚛️🔵
 
